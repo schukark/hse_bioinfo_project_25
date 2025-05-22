@@ -8,6 +8,6 @@
 |       Кузнецов Игорь |             Pieris rapae |
 |         Яковлев Иван |         Pieris brassicae |
 
-## Ссылка не презентацию
+## Ссылка на презентацию
 
 [Тык](https://docs.google.com/presentation/d/1J0og47rebWsj4PpYmu4QbHMMIdT93je5p7EpTD45K0E/edit?usp=sharing)
