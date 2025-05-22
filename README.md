@@ -5,7 +5,7 @@
 |             Участник |                      Вид |
 | -------------------- | ------------------------ |
 |        Щукин Аркадий |           Vanessa cardui |
-|       Кузнецов Игорь |          Vanessa atlanta |
+|       Кузнецов Игорь |         Vanessa atalanta |
 |         Яковлев Иван |          Melitaea cinxia |
 |      Хрущев Вячеслав |          Maniola jurtina |
 |          Уткина Вика |             Nymphalis io |
