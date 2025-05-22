@@ -7,6 +7,8 @@
 |        Щукин Аркадий |           Colias croceus |
 |       Кузнецов Игорь |             Pieris rapae |
 |         Яковлев Иван |         Pieris brassicae |
+|      Хрущев Вячеслав |       Cydia fagiglandana |
+|          Уткина Вика |         European peacock |
 
 ## Ссылка на презентацию
 
