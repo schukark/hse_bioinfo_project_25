@@ -6,10 +6,11 @@
 | -------------------- | ------------------------ |
 |        Щукин Аркадий |           Vanessa cardui |
 |       Кузнецов Игорь |          Vanessa atlanta |
-|         Яковлев Иван |                        ? |
+|         Яковлев Иван |          Melitaea cinxia |
 |      Хрущев Вячеслав |          Maniola jurtina |
 |          Уткина Вика |             Nymphalis io |
 |     Северов Владимир |         Vanessa tameamea |
+|      Валерий Миронов |         Danaus plexippus |
 
 ## Ссылка на презентацию
 
