@@ -13,3 +13,7 @@
 ## Ссылка на презентацию
 
 [Тык](https://docs.google.com/presentation/d/1J0og47rebWsj4PpYmu4QbHMMIdT93je5p7EpTD45K0E/edit?usp=sharing)
+
+## Ссылка на финальную презентацию
+
+[Тык](https://docs.google.com/presentation/d/1zzLslrOjhk3ngwQ2hgP9mMdSomzhDpIA8TRzmaStDc8/edit?slide=id.g362537a97cf_4_61#slide=id.g362537a97cf_4_61)
