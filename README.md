@@ -4,11 +4,13 @@
 
 |             Участник |                      Вид |
 | -------------------- | ------------------------ |
-|        Щукин Аркадий |           Colias croceus |
-|       Кузнецов Игорь |             Pieris rapae |
-|         Яковлев Иван |         Pieris brassicae |
-|      Хрущев Вячеслав |       Cydia fagiglandana |
-|          Уткина Вика |         European peacock |
+|        Щукин Аркадий |           Vanessa cardui |
+|       Кузнецов Игорь |         Vanessa atalanta |
+|         Яковлев Иван |          Melitaea cinxia |
+|      Хрущев Вячеслав |          Maniola jurtina |
+|          Уткина Вика |             Nymphalis io |
+|     Северов Владимир |         Vanessa tameamea |
+|      Валерий Миронов |         Danaus plexippus |
 
 ## Ссылка на презентацию
 
